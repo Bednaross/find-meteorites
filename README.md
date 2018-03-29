@@ -7,6 +7,6 @@ This project requires Python3 and requests pck.
 First install pipenv. then:
 ```
 pipenv install
-pipenv run "python3 find_meteors.py"
+pipenv run "python3 meteors/find_meteors.py"
 ```
 
